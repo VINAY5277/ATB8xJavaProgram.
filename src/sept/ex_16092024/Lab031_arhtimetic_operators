@@ -1,0 +1,14 @@
+public class Lab031_arithmetic_operators {
+    public static void main(String[] args) {
+        // Arthmetic operator
+        // +,-,/,*
+        int a=10;
+                int b= 2;
+        System.out.println("a+b"); // + -> binary - 2 operands
+        System.out.println(a-b);
+        System.out.println(a*b);
+        System.out.println("a/b");
+
+        //% - MOdulus - reminders
+        System.out.println(0);
+
